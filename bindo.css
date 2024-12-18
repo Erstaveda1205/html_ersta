@@ -1,0 +1,118 @@
+header{
+    background-color:cornflowerblue;
+    color:black;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 4px;
+}
+body{
+    background-color: coral;
+}
+.pengertian-hikayat{
+    background-color:lightcoral;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+
+}
+.isi-hikayat{
+    background-color:lightsalmon;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+
+}
+.contoh-hikayat{
+    background-color:lightcoral;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+
+}
+.struktur-hikayat{
+    background-color:lightcoral;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+
+}
+.ciri-bahasa{
+    background-color:lightcoral;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+
+}
+.ciri-hikayat{
+    background-color:lightcoral;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+footer {
+    font-style:oblique;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: purple;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    margin: 20px;
+}
+h2{
+    margin: 20px;
+}
+h3{
+    margin: 20px;
+}
+p{
+    margin: 20px;
+}
+li{
+    margin: 20px;
+}

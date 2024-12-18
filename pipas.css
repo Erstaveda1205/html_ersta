@@ -1,0 +1,112 @@
+body {
+    background-color:lightsalmon;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color:darkmagenta;
+    color:black;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 4px;
+}
+.pengertian-zat{
+    background-color:rgba(255, 140, 0, 0.56);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+p{
+    margin: 20px;
+}
+li{
+    margin: 20px;
+}
+.sifat-zat{
+    background-color:rgba(255, 140, 0, 0.56);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.jenis-zat{
+    text-align: center;
+}
+.ciri-zat{
+    text-align: center;
+}
+.perubahan-fisika{
+    background-color:rgba(255, 140, 0, 0.56);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.perubahan-kimia{
+    background-color:rgba(255, 140, 0, 0.56);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.unsur{
+    background-color:rgba(255, 140, 0, 0.56);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.lambang-unsur{
+    background-color:rgba(255, 140, 0, 0.56);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: wheat;
+    padding: 10px;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    margin: 5px;
+}

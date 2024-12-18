@@ -1,0 +1,185 @@
+header{
+    background-color:cornflowerblue;
+    color:black;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 4px;
+}
+body{
+    background-color: lightblue;
+}
+.pengenalan-python{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+}
+.kelebihan-python{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+}
+.istilah-python{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+
+}
+.perintah-print{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+
+}
+.Tipe-data{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+
+}
+.operator{
+    text-align: center;
+    background-color: aqua;
+}
+.contoh{
+    text-align: center;
+    background-color: aqua;
+
+}
+.penjelasan{
+    text-align: center;
+    background-color: aqua;
+
+}
+.variabel-python{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+
+}
+.operator-python{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+}
+.Algoritma{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+}
+.function{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+}
+.Penggunaan-python{
+    font-style:normal;
+    color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color: white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    text-align: center;
+}
+footer {
+    font-style:oblique;
+    color:white;
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: black 10px 8px;
+    color:white;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    background-color: darkblue;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    margin: 20px;
+}
+h2{
+    margin: 20px;
+}
+h3{
+    margin: 20px;
+}
+p{
+    margin: 20px;
+}
+li{
+    margin: 20px;
+}
+.img{
+    margin: 20px;
+}
+tr{
+    margin: 20px;
+}

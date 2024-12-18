@@ -1,0 +1,141 @@
+.judul{
+    text-align: center;
+}
+header {
+    background-color:fuchsia;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.elemen-html{
+    background-color:purple;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.elemen-head{
+    background-color:purple;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.elemen-body{
+    background-color:orchid;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.about-css{
+    background-color:fuchsia;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.macam-css{
+    background-color:darkorange;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.bahasa-css{
+    background-color:darkorange;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+.alasan-css{
+    background-color:yellow;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+p{
+    margin: 20px;
+}
+li{
+    margin: 20px;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    margin: 20px;
+}
+h2{
+    margin: 20px;
+}
+h3{
+    margin: 20px;
+}
+.pembuat-css{
+    background-color:yellow;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    color:black;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: wheat;
+    padding: 10px;
+    flex-basis: calc(50% - 30px);
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: black 10px 8px;
+    margin: 5px;
+}
